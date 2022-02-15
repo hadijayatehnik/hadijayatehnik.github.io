@@ -7,3 +7,6 @@ section {
 body {
   background-color: rgb(238, 238, 173);
 }
+a {
+  text-decoration: none;
+}
